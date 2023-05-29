@@ -1,0 +1,15 @@
+C:\Users\samanta.melissa\Desktop\PROJETOCONTAS\bin\Debug\net6.0\PROJETOCONTAS.exe
+C:\Users\samanta.melissa\Desktop\PROJETOCONTAS\bin\Debug\net6.0\PROJETOCONTAS.deps.json
+C:\Users\samanta.melissa\Desktop\PROJETOCONTAS\bin\Debug\net6.0\PROJETOCONTAS.runtimeconfig.json
+C:\Users\samanta.melissa\Desktop\PROJETOCONTAS\bin\Debug\net6.0\PROJETOCONTAS.dll
+C:\Users\samanta.melissa\Desktop\PROJETOCONTAS\bin\Debug\net6.0\PROJETOCONTAS.pdb
+C:\Users\samanta.melissa\Desktop\PROJETOCONTAS\obj\Debug\net6.0\PROJETOCONTAS.csproj.AssemblyReference.cache
+C:\Users\samanta.melissa\Desktop\PROJETOCONTAS\obj\Debug\net6.0\PROJETOCONTAS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samanta.melissa\Desktop\PROJETOCONTAS\obj\Debug\net6.0\PROJETOCONTAS.AssemblyInfoInputs.cache
+C:\Users\samanta.melissa\Desktop\PROJETOCONTAS\obj\Debug\net6.0\PROJETOCONTAS.AssemblyInfo.cs
+C:\Users\samanta.melissa\Desktop\PROJETOCONTAS\obj\Debug\net6.0\PROJETOCONTAS.csproj.CoreCompileInputs.cache
+C:\Users\samanta.melissa\Desktop\PROJETOCONTAS\obj\Debug\net6.0\PROJETOCONTAS.dll
+C:\Users\samanta.melissa\Desktop\PROJETOCONTAS\obj\Debug\net6.0\refint\PROJETOCONTAS.dll
+C:\Users\samanta.melissa\Desktop\PROJETOCONTAS\obj\Debug\net6.0\PROJETOCONTAS.pdb
+C:\Users\samanta.melissa\Desktop\PROJETOCONTAS\obj\Debug\net6.0\PROJETOCONTAS.genruntimeconfig.cache
+C:\Users\samanta.melissa\Desktop\PROJETOCONTAS\obj\Debug\net6.0\ref\PROJETOCONTAS.dll
